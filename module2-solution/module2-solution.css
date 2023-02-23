@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+#box {
+	background-color: gray;
+	border: 5px  solid red;
+	padding:5px;
+	text-align: center;
+	width: 100px;
+	height: 60px;
+	margin-left: 400px;
+}
+
+div {
+  background-color: #00FFFF;
+
+  width: 50%;
+  border: 1px solid black;
+  
+  padding: 10px;
+}
+
+#row {
+    background-color: #A52A2A;
+    margin-right: 5px;
+
+} 
+
